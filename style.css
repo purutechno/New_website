@@ -1,0 +1,32 @@
+.box-1{
+	background-color: black;
+	font-family: Brush Script MT;
+	font-size: 24px;
+	border-style: dotted;
+	border-radius: 40px;
+}
+h1{
+	color: white;
+	font-size: 28px;
+}
+h2{
+	color: green;
+	font-family: Brush Script MT;
+	background-color: brown;
+}
+
+.box-3{
+	color: skyblue;
+	border-style: ridge;
+}
+main{
+	background-image: url(pic.jpg);
+	border-style: dotted;
+	padding: 10px 20%;
+}
+
+p1{
+	font-family: Algerian;
+	font-size: 16px;
+	color: coral;
+}
